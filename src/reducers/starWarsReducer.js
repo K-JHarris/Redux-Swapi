@@ -1,4 +1,3 @@
-
 import {GET, SUCCESS, FAILED_REQUEST} from "../actions"
 
 const initialState = {
